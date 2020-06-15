@@ -1,0 +1,19 @@
+{
+newhash %hs%;
+addelem %hs% 0;
+addelem %hs% 1;
+addelem %hs% 2;
+addelem %hs% 3;
+addelem %hs% 4;
+addelem %hs% 5;
+addelem %hs% 6;
+addelem %hs% 7;
+addelem %hs% 8;
+addelem %hs% 101;
+addelem %hs% 97;
+addelem %hs% 33;
+addelem %hs% 37;
+addelem %hs% 4;
+printhash %hs%;
+findhash %hs% 101;
+}

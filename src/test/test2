@@ -1,0 +1,20 @@
+{
+linklist %llist1%;
+addl %llist1% 12;
+addl %llist1% 13;
+addl %llist1% 14;
+addf %llist1% 11;
+reml %llist1%;
+println('First list:');
+printlist %llist1%;
+getf %llist1% b;
+linklist %llist2%;
+addl %llist2% 2;
+addl %llist2% 3;
+addl %llist2% 4;
+addf %llist2% 1;
+remf %llist2%;
+println('Second list:');
+printlist %llist2%;
+getl %llist2% c;
+}

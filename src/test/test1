@@ -1,0 +1,20 @@
+{
+    a = 2;
+    while(a < 11){
+        println('a inside while');
+        println(a);
+        a = a + 1;
+    }
+    println('a outside while');
+    println(a);
+
+    if(a == 10){
+        println('stop');
+    }
+    else {println('ok');
+}
+
+    b = 1.1;
+    println(a+b);
+}
+ 
